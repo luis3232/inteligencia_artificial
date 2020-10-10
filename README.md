@@ -1,5 +1,5 @@
 Ciências da Computação
 
-Inteligências Artificial (IA)
+Inteligência Artificial (IA)
 
 Luís Aurélio Campos
